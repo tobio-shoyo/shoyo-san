@@ -220,23 +220,23 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="🚦 ᴜᴘᴅᴀᴛᴇs 🚦",
-                                url="https://t.me/NicoRobin_updates",
+                                url="https://t.me/CLIPPED_CROW",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text=" ᴡɪᴢᴀʀᴅ ",
-                                url="https://t.me/NicoRobin_updates/5",
+                                url="https://t.me/CLIPPED_CROW",
                             ),
                             InlineKeyboardButton(
                                 text="ɢʀᴏᴜᴘ",
-                                url="https://t.me/The_loli_league/",
+                                url="https://t.me/shhhilence/",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="⚓️ ʜᴇʟᴘ ⚓️",
-                                url="https://t.me/NicoRobin_robot?start=help",
+                                url="https://t.me/ShouyouROBOT?start=help",
                             ),
                         ],
                     ],
