@@ -71,10 +71,10 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """Heyo Watashi Nico Desu, I am Groups Management Bot !! I can Help You Manage Your Group for you!!, send /help for command list...[.](https://telegra.ph/file/36f504f4c0c2f0f138806.jpg)"""
+PM_START_TEXT = """Heyo Man, My Name Is Hinata Shôyô, I am Groups Management Bot !! I can Help You Manage Your Group for you!!, send /help for command list...[.](https://telegra.ph/file/2d962f1b1bb80af510f2b.jpg)"""
 
 HELP_STRINGS = """
-Hey there, I'm Nico Robins!
+Hey there, I'm Hinata Shôyô!
 To make me functional, make sure that i have enough rights in your group.
 Helpful commands:
 - /start: Starts me! You've probably already used this.
@@ -88,7 +88,7 @@ List of all the Modules:
     "" if not ALLOW_EXCL else "📝All commands can either be used with / or !.",
 )
 
-EREN_IMG = "https://telegra.ph/file/3e06334617f26c66c4f2b.jpg"
+EREN_IMG = "https://telegra.ph/file/2d962f1b1bb80af510f2b.jpg"
 
 DONATE_STRING = """Durov Is my Cousin By The Way.."""
 
